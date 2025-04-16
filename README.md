@@ -1,2 +1,2 @@
-# deepak-shell-script-project
-Shell scripting project-1
+# deepak-devops-project
+Devops project-1
